@@ -44,8 +44,8 @@ swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/carpentries/styles"
 training_site: "https://carpentries.github.io/instructor-training"
-workshop_repo: "https://github.com/carpentries/workshop-template"
-workshop_site: "https://carpentries.github.io/workshop-template"
+workshop_repo: "https://github.com/rociotmartinez/2018-11-01-london-kcl"
+workshop_site: "http://rociotmartinez/2018-11-01-london-kcl"
 
 # Surveys.
 dc_pre_survey: "https://www.surveymonkey.com/results/SM-NYNMDLXKV/"
